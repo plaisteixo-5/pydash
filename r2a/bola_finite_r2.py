@@ -1,11 +1,11 @@
-# ================================================== #
+# ==================================================== #
 # Universidade de Brasilia
 # Departamento de Ciencia da Computacao
 # Redes de Computadores - Turma A - 2020.2
 # Alunos: Carlos Eduardo da Silva Andrade - 190025905
 #         Daniel Rodrigues Cardoso        - 190064064
 #         Felipe Fontenele dos Santos     - 190027622
-# ================================================== #
+# ==================================================== #
 
 from r2a.ir2a import IR2A
 from player.parser import *
